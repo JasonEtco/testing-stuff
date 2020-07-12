@@ -1,4 +1,4 @@
-# Documentation
+# Introduction
 
 ```js
 const example = true
