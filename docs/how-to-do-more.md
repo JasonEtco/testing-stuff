@@ -1,5 +1,7 @@
 # How to do more
 
+# toc
+
 ## Take naps
 
 By taking lots of naps! 😴
