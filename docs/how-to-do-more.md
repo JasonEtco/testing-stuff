@@ -1,6 +1,6 @@
 # How to do more
 
-## toc
+## Table of Contents
 
 ## Take naps
 
