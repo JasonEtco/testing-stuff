@@ -4,4 +4,4 @@
 const example = true
 ```
 
-Boom!
+Boom! 💥
